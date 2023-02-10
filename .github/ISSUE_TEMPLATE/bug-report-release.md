@@ -1,8 +1,9 @@
 ---
 name: bug report release
 about: Bug release
-title: "[cherry-pick][bug-release]"
-labels: bug
+title: "[BUG-PLATAFORMA-PARCEIRO-JORNADA]-Adicione o nome do cenário conforme está
+  no Silk"
+labels: bug-release, cherry-pick
 assignees: ''
 
 ---
