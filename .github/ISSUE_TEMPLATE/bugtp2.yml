@@ -7,8 +7,8 @@ body:
   id: pre-requisito
   attributes:
     label: Versão da release
-    placeholder: ex: [1.20.0]
-    label: Modelo device:
+    placeholder: ex. [1.20.0]
+    label: Modelo device
     placeholder: ex: [Nexus 5 api 30]
   validations:
     required: true
