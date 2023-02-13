@@ -25,7 +25,7 @@ body:
     placeholder: |
        Dado que acesso o app
        E estou na home
-       Quando tocar no botão ... 
+       Quando tocar no botão [...] 
        Então o app crash
   validations:
     required: true
