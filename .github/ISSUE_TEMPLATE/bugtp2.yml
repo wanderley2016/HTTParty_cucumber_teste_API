@@ -13,9 +13,9 @@ body:
   validations:
     required: true
 - type: input
-  id: Modelo device
+  id: Modelo-device
   attributes:
-    label: Modelo-device
+    label: Modelo device
     placeholder: ex. [Nexus 5 api 30]
   validations:
     required: true
