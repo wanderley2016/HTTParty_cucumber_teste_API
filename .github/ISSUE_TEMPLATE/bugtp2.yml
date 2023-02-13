@@ -6,11 +6,11 @@ body:
 - type: markdown
   attributes:
     value: |
-      **PRÉ-REQUISITOS:**      
+      **PRÉ-REQUISITOS**      
 - type: input
   id: Versao-release
   attributes:
-    label: Versão da release:
+    label: Versão da release
     placeholder: ex. [1.20.0]
   validations:
     required: true
