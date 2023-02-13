@@ -18,7 +18,7 @@ body:
   validations:
     required: true
 - type: textarea
-  id: passos-execução
+  id: passos-execuçao
   attributes:
     label: PASSOS PARA EXECUÇÃO
     description: Adicione oa passos até chegar ao erro encontrado no fluxo.
