@@ -22,9 +22,10 @@ body:
   attributes:
     label: PASSOS PARA EXECUÇÃO
     description: Adicione oa passos até chegar ao erro encontrado no fluxo.
-    placeholder: Ex. Dado que acesso o app
-                     E estou na home
-                     Quando tocar no botão XPTO
-                     Então o app crash
+    placeholder: Ex.| 
+          Dado que acesso o app
+          E estou na home
+          Quando tocar no botão XPTO
+          Então o app crash
   validations:
     required: true
