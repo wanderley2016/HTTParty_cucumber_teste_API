@@ -1,6 +1,6 @@
 name: 🐞 Bug
 description: Report bug release
-title: "[BUG-PLATAFORMA-PARCEIRO-JORNADA] Adicione o nome do cenário conforme está no silk"
+title: "[BUG-ANDROID-PARCEIRO-JORNADA] Adicione o nome do cenário conforme está no silk"
 labels: ["bug-release", "cherry-pick"]
 body:
 - type: markdown
