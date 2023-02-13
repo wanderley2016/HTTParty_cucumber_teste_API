@@ -23,9 +23,9 @@ body:
     label: PASSOS PARA EXECUÇÃO
     description: Adicione oa passos até chegar ao erro encontrado no fluxo.
     placeholder: |
-      1. In this environment...
-      2. With this config...
-      3. Run '...'
-      4. See error...
+       Dado que acesso o app
+       E estou na home
+       Quando tocar no botão ... 
+       Então o app crash
   validations:
     required: true
