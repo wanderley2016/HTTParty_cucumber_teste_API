@@ -22,7 +22,7 @@ body:
   attributes:
     label: PASSOS PARA EXECUÇÃO
     description: Adicione oa passos até chegar ao erro encontrado no fluxo.
-   placeholder: |
+    placeholder: |
       1. In this environment...
       2. With this config...
       3. Run '...'
