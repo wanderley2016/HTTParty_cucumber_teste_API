@@ -52,7 +52,7 @@ body:
   id: evidencia
   attributes:
     label: EVIDÊNCIA DO TESTE
-    description: Adicione o link da execução do teste no Silk que contenha o print/video do bug.
+    description: Adicione o link da execução do teste realizada no Silk, que contenha o print/video do bug.
   validations:
     required: true
 - type: textarea
