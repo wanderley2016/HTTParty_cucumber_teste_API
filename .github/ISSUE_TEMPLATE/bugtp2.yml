@@ -30,3 +30,31 @@ body:
            Então o app crash ]
   validations:
     required: true
+- type: input
+  id: resultado-obtido
+  attributes:
+    label: RESULTADO OBTIDO
+    description: Descreva qual o resultado atual da execução que reflete o bug.
+  validations:
+    required: true
+- type: input
+  id: resultado-esperado
+  attributes:
+    label: RESULTADO ESPERADO
+    description: Descreva qual deveria ser o resultado esperado.
+  validations:
+    required: true
+- type: input
+  id: evidencia
+  attributes:
+    label: EVIDÊNCIA DO TESTE
+    description: Adicione o link do Silk da execução do teste que contenha o print/video do bug.
+  validations:
+    required: true
+- type: textarea
+  id: informacao-adicionais
+  attributes:
+    label: INFORMAÇÕES ADICIONAIS(Opcional)
+    description: Adicione informações que considere importante para a resolução do bug.
+  validations:
+    required: false
