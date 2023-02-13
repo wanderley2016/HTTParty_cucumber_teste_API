@@ -3,10 +3,10 @@ description: Report bug release
 title: "[BUG-PLATAFORMA-PARCEIRO-JORNADA] Adicione o nome do cenário conforme está no silk"
 labels: ["bug-release", "cherry-pick"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        PRÉ-REQUISITOS
+- type: markdown
+  attributes:
+    value: |
+      **PRÉ-REQUISITOS**
 - type: input
   id: Versao-release
   attributes:
